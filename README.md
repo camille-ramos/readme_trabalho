@@ -12,7 +12,9 @@ O projeto trata sobre um acidente aéreo causado no ano de 1985, em que em apena
 Esse projeto tem como finalidade desenvolver habilidades para a criação de repositórios, além de fazer com que pratiquemos ainda mais a postura profissional, por meio da elaboração do conteúdo e apresentação referente ao tema do curso.
 
 # Integrantes do Grupo
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## Camille
+![IMG-1170](https://user-images.githubusercontent.com/101525549/165855857-d03aef23-8f24-4ab8-9e63-45b5fe4d5a14.jpg)
+## Lucas
 
 
 
