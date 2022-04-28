@@ -17,7 +17,7 @@ Esse projeto tem como finalidade desenvolver habilidades para a criação de rep
 ## Lucas
 ![IMG-1169](https://user-images.githubusercontent.com/101525549/165856070-bb7ccf4f-8d26-4913-91c9-c818b45ffa64.jpg)
 ## Maria Eduarda
-
+![IMG-1168](https://user-images.githubusercontent.com/101525549/165856195-8ebd065c-903b-4dd5-bcce-6296d6db630f.jpg)
 
 
 
