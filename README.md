@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://www.canva.com/design/DAE_OGQ93Js/8n1FPwxuL8oH6DQkuJXsiQ/view?utm_content=DAE_OGQ93Js&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
 
 O projeto trata sobre um acidente aéreo causado no ano de 1985, em que em apenas doze minutos de decolagem a aeronave caiu na região do Monte Takamagahara, no Japão. Isso ocorreu por conta de uma descompressão explosiva que não estava previsto.
 
